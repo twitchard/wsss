@@ -1,6 +1,6 @@
 {
   "name": "wsss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "websocket shared-state server",
   "main": "index.js",
   "dependencies": {

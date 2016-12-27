@@ -3,9 +3,17 @@ Simple websocket server that allows clients to subscribe to updates and arbitrar
 
 ## Quick start
 
-```
+From command line:
+
+```sh
 npm install
 npm start [PORT_NUMBER] # defaults to 8000
+```
+
+From nodejs
+
+```sh
+require('wsss')(PORT_NUMBER) // defaults to 8000
 ```
 
 ## How it works
